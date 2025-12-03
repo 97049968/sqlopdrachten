@@ -84,7 +84,6 @@ ORDER BY aantal_flitsen DESC
 LIMIT 10;
 
 
-
 * Kentekens van auto’s die het hoogste bedrag aan boetes hebben gekregen (top 10)
 SELECT 
     licenses.license,
